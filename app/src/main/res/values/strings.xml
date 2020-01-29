@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">KP Attendance System</string>
+    <string name="add_new_employee">Add New Employee</string>
+    <string name="current_department">Current Department</string>
+    <string name="female">Female</string>
+    <string name="enter_employee_occupation_status">Employee Designation</string>
+    <string name="male">Male</string>
+    <string name="enter_employee_name">Enter Employee Name</string>
+    <string name="employee_cnic">CNIC</string>
+    <string name="enter_employee_current_department">Enter Your Current Department</string>
+    <string name="gender1">Gender:</string>
+    <string name="verify_employee">Verify Employee</string>
+    <string name="register_new_employee">Register New Employee</string>
+    <string name="todoo" />
+    <string name="addimage">addimage</string>
+    <string name="gender2">Gender:</string>
+    <string name="employee">Employee</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="match">Match</string>
+    <string name="register">Register</string>
+    <string name="verify2">Verify</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="verifywelcme">Welcome</string>
+    <string name="verify"></string>
+    <string name="submitt">Submit</string>
+    <string name="todo">t</string>
+    <string name="biometric_e">
+
+</string>
+    <string name="biometric_e_attandence">Biometric Attendance</string>
+    <string name="submit">Submit</string>
+    <string name="put_your_thumb_on_device">Put your Thumb on Device</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="admin">Unit Incharge</string>
+    <string name="CreateGeofence">Create Unit Location</string>
+    <string name="todof">TODOt</string>
+    <string name="ddd">TODO</string>
+    <string name="todoffff">TODO</string>
+    <string name="attendance">Attendance</string>
+    <string name="new_employe">New Employe</string>
+    <string name="toy">TODO</string>
+    <string name="back"><![CDATA[< Back]]></string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

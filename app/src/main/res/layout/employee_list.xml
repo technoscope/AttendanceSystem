@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/ripple_bck"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="5dp"
+        android:padding="4dp"
+        android:background="@drawable/ripple_bck"
+        android:layout_marginEnd="5dp"
+        android:id="@+id/linearlayout_employee_list"
+        >
+        <TextView
+            android:id="@+id/emp_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Emplyee Name"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="20sp"
+            android:layout_weight="1"
+
+            />
+        <TextView
+            android:textSize="20sp"
+            android:id="@+id/emp_desig"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Designation"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+
+        android:background="#272121" />
+</LinearLayout>
